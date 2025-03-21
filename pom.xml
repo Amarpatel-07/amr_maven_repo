@@ -20,6 +20,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>amr-web-app</finalName>
+    <finalName>amr-web-app-git</finalName>
   </build>
 </project>
